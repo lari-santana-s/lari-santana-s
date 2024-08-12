@@ -2,7 +2,7 @@
 - 👀 I’m interested in desenvolvimento web 
 - 🌱 I’m currently learning HTML, CSS e JavaScript
 - 💞️ I’m looking to collaborate on projetos de desenvolvimento web
-- 📫 How to reach me e-mail: lari.santos.lsh@gmail.com
+- 📫 How to reach me pelo e-mail: lari.santos.lsh@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: eu não tenho no momento
 
